@@ -1,6 +1,6 @@
 ---
 name: Ordering / Delivery issue
-about: A general template so you can add some details
+about: You have placed and order and it has been ages !
 title: ''
 labels: ''
 assignees: ''

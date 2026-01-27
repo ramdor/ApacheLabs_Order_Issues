@@ -14,3 +14,5 @@ Did you try phoning/calling? Was the voicemail full?
 ApacheLabs said they would get back to you, but they seem to have gone quiet.
 
 etc.
+
+Remember this is public, so only leave information you feel can be in the public domain.
