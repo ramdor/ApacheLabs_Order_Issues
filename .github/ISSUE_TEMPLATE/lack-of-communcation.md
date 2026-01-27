@@ -2,7 +2,7 @@
 name: Lack of communcation
 about: If you have been unable to get through to ApacheLabs, fill this in
 title: ''
-labels: ''
+labels: communication
 assignees: ''
 
 ---

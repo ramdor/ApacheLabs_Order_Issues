@@ -2,7 +2,7 @@
 name: Ordering / Delivery issue
 about: You have placed and order and it has been ages !
 title: ''
-labels: ''
+labels: order/deliver
 assignees: ''
 
 ---
