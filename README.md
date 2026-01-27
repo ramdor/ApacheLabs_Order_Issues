@@ -1,5 +1,7 @@
 # ApacheLabs_Order_Issues
-Somewhere to list issues with customers that have ordered hardware from ApacheLabs
+Somewhere to list issues that customers are having with ApacheLabs. Orders not fulfilled, refunds not provided, emails igmored. That sort of thing.
+
+Remember any details you submit into an issue report will be public.
 
 Just click Issues at the top, or click [HERE](https://github.com/ramdor/ApacheLabs_Order_Issues/issues)
 
