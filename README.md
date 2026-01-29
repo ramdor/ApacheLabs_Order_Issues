@@ -1,6 +1,6 @@
 # ApacheLabs Order Issues
 
-This repository exists to document and track concerns reported by customers relating to issues with ApacheLabs, such as unfulfilled orders, delayed refunds, or lack of communication, etc.
+This repository exists to document and track in a single place concerns reported by customers relating to issues with ApacheLabs, such as unfulfilled orders, delayed refunds, or lack of communication, etc.
 
 All issues submitted here are public. Do not include sensitive personal information such as full addresses, phone numbers, payment details, private correspondence, or full order numbers, etc.
 
