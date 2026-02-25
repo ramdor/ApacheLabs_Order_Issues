@@ -15,3 +15,7 @@ Use the New Issue button to create your own new issue. Please do not add to some
 
 
 <img width="600" height="190" alt="image" src="https://github.com/user-attachments/assets/51e79644-7960-4a1c-93db-199cc8b23614" />
+
+
+
+PS: I, Richard Samphire MW0LGE have no affiliation with ApacheLabs the company. I only code/modify Thetis, but I was getting frustrated reading about issues regarding ApacheLabs all over the internet so I set up this single point to gather related information.
