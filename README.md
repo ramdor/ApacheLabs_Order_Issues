@@ -12,10 +12,11 @@ https://github.com/ramdor/ApacheLabs_Order_Issues/issues
 Use the New Issue button to create your own new issue. Please do not add to someones existing issue.
 
 <img width="338" height="82" alt="image" src="https://github.com/user-attachments/assets/a4a4038f-9610-43c1-909f-ae398c599045" />
-
-
+<br>
+<br>
 <img width="600" height="190" alt="image" src="https://github.com/user-attachments/assets/51e79644-7960-4a1c-93db-199cc8b23614" />
-
-
-
+<br>
+<br>
+<br>
+<br>
 PS: I, Richard Samphire MW0LGE have no affiliation with ApacheLabs the company. I only code/modify Thetis, but I was getting frustrated reading about issues regarding ApacheLabs all over the internet so I set up this single point to gather related information.
