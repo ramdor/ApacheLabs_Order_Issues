@@ -9,4 +9,9 @@ Please keep all reports factual, civil, and respectful. Do not post abusive, def
 To submit or view reports, click **Issues** at the top of the page, or use this link:
 https://github.com/ramdor/ApacheLabs_Order_Issues/issues
 
+Use the New Issue button to create your own new issue. Please do not add to someones existing issue.
+
+<img width="338" height="82" alt="image" src="https://github.com/user-attachments/assets/a4a4038f-9610-43c1-909f-ae398c599045" />
+
+
 <img width="600" height="190" alt="image" src="https://github.com/user-attachments/assets/51e79644-7960-4a1c-93db-199cc8b23614" />
